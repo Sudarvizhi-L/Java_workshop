@@ -76,6 +76,6 @@ public class stringToInteger {
 
     public static void main(String[] args) {
         stringToInteger sti = new stringToInteger();
-        System.out.println(sti.myAtoi("44"));
+        System.out.println(sti.myAtoi("-44"));
     }
 }
